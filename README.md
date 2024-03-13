@@ -2,4 +2,5 @@
 Workshop example repository for March 2024 series
 
 
-This is an amazing session!
+This is a terrible session!
+
